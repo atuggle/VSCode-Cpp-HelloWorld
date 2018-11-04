@@ -1,0 +1,5 @@
+*.wasm
+*.abi
+*.out
+*.exe
+*.out.*
